@@ -4,8 +4,11 @@ Info Account Data — простое iOS-приложение на SwiftUI дл�
 Этот проект может служить учебным примером или основой для более сложного интерфейса с пользовательскими данными.
 
 ## 📱 Скриншот
-![](README/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202025-06-24%20at%2012.31.44.png)<!-- {"width":173} -->   ![](README/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202025-06-24%20at%2012.32.06.png)<!-- {"width":190} -->.  ![](README/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202025-06-24%20at%2012.33.04.png)<!-- {"width":173} -->
-![](README/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202025-06-24%20at%2012.34.06.png)<!-- {"width":173} -->   ![](README/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202025-06-24%20at%2012.34.22.png)<!-- {"width":173} -->
+![Simulator Screenshot - iPhone 16 Pro - 2025-06-24 at 12 31 44](https://github.com/user-attachments/assets/172a751a-a874-498d-ab99-b64170549ea7) ![Simulator Screenshot - iPhone 16 Pro - 2025-06-24 at 12 32 06](https://github.com/user-attachments/assets/589c00f3-44a7-45dc-83ae-53a820682062) ![Simulator Screenshot - iPhone 16 Pro - 2025-06-24 at 12 33 04](https://github.com/user-attachments/assets/630809f5-ebfb-4e22-ab92-9119702fa5a4) ![Simulator Screenshot - iPhone 16 Pro - 2025-06-24 at 12 33 04](https://github.com/user-attachments/assets/f492da56-3b6f-435f-8bf9-cb228ba02fe9) ![Simulator Screenshot - iPhone 16 Pro - 2025-06-24 at 12 34 22](https://github.com/user-attachments/assets/4e0f4758-7252-4818-9c6d-04c42751fcfd)
+
+
+
+
 
 ## 🚀 Возможности
 
